@@ -1,0 +1,115 @@
+body{
+  background-color: "#f8f9fd";
+}
+.background {
+  position: relative;
+  padding: 0;
+  background-image: url("../../assets/bg2.jpg");
+  background-size: cover;
+  background-position: center;
+  color: rgba(7, 3, 3, 0); 
+  height: 830px; 
+}
+
+
+.content {
+  padding: 20px;
+  color: white;
+}
+
+.signup-form {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+
+
+.btn-gold {
+  background-color: #e3b04b !important;
+  color: #fff;
+  width: 200px !important;
+  border: 1px solid #ccc !important;
+  &:hover {
+    background-color: #fcc100 !important; /* Darker gold color on hover */
+  }
+}
+
+
+.btn-blue {
+  background-color: #0083c0 !important;
+  color: #fff;
+  width: 400px !important;
+  height:50px;
+  border: 1px solid #ccc !important;
+  &:hover {
+    background-color: #0315b1 !important; /* Darker gold color on hover */
+  }
+}
+
+.btn-green {
+  background-color: #0fcc08 !important;
+  color: #fff;
+  width: 400px !important;
+  height:50px;
+  border: 1px solid #ccc !important;
+  &:hover {
+    background-color: #058101 !important; /* Darker gold color on hover */
+  }
+}
+.btn-red{
+  background-color: #e42e16 !important;
+  color: #fff;
+  width: 400px !important;
+  height:50px;
+  border: 1px solid #ccc !important;
+  &:hover {
+    background-color: #ce0505 !important; /* Darker gold color on hover */
+  }
+}
+
+
+.btn-orange {
+  background-color: #e38f4b !important;
+  color: #fff;
+  width: 400px !important;
+  height:50px;
+  border: 1px solid #ccc !important;
+  &:hover {
+    background-color: #fc7100 !important; /* Darker gold color on hover */
+  }
+}
+
+
+.form-control{
+  width: 100px;
+}
+.form-control:hover {
+  border-color: #e3b04b !important;
+}
+.is-valid {
+  border-color: #e3b04b !important;
+  box-shadow: 0 0 5px #e3b04b !important;
+}
+
+.topic {
+  font-family: 'Roboto', sans-serif; /* Use the name of the imported font */
+  font-weight: 200; 
+  font-size: 2rem;
+  margin-top: 10px;
+  margin-bottom: 40px ;
+}
+
+.fixed{
+  height: 600px; 
+ margin-left:20px;
+}
+

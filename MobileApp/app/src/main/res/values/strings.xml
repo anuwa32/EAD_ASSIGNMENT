@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Train_Management</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="previous">Previous</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="title_activity_booking">BookingActivity</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="update_user">Your Profile</string>
+
+    <string name="not_yet_registered_signup_now">If you havent account? SignUp Now</string>
+    <string name="login">Login</string>
+    <string name="log_out">Log-Out Account</string>
+    <string name="first_name">Enter Your Firstname</string>
+    <string name="passengers">Passengers</string>
+    <string name="last_name">Enter Your Lastname</string>
+    <string name="phone_number">Enter Your Phone Number</string>
+
+    <string name="update">Update Account</string>
+    <string name="disable">Disable Account</string>
+    <string name="register1">Create Your account</string>
+
+    <string name="password">Please Enter Valid Password</string>
+    <string name="nic">Enter Your NIC</string>
+    <string name="already_registered">Are you already registered person?, Login?</string>
+    <string name="register">Register</string>
+
+    <string name="add_booking">Add Booking</string>
+    <string name="name">Your Name</string>
+    <string name="email">Your Email</string>
+
+    <string name="date">Date</string>
+</resources>
